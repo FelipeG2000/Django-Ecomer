@@ -29,6 +29,7 @@ ALLOWED_HOSTS = [
     'localhost',
     'http://localhost:8080',
     '127.0.0.1',
+    '18.220.31.247'
                      ]
 
 # Application definition
